@@ -1,0 +1,6 @@
+name: Token formatters
+type: module
+description: Provides a token-based formatter for reference fields
+core: 8.x
+dependencies:
+  - token
